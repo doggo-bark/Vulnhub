@@ -21,6 +21,7 @@
 13. Raven: 1
 14. pWnOS: 2.0
 15. SickOs: 1.2
+16. [Wallaby's: Nightmare (v1.0.2)](https://ducanhthehacker.wordpress.com/2024/08/27/vulnhub-wallabys-nightmare/)
 
 
 **Intermediate**
@@ -31,6 +32,7 @@
  5. [DC: 9](https://ducanhthehacker.wordpress.com/2024/08/06/vulnhub-dc9/)
  6. [Zico2: 1](https://ducanhthehacker.wordpress.com/2024/08/01/vulnhub-zico2-1/)
  7. [VulnOS: 2](https://ducanhthehacker.wordpress.com/2024/07/27/vulnhub-vulnos2/)
+ 8. [Brainpan: 1](https://ducanhthehacker.wordpress.com/2024/08/21/vulnhub-brainpan-1/)
 
 
 **Hard** 
